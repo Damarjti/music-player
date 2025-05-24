@@ -1,7 +1,7 @@
 * {
-  margin: 1px;
-  padding: 1px;
-  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+/*   box-sizing: border-box; */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
