@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-/*   box-sizing: border-box; */
+  box-sizing: border-box;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -9,7 +9,7 @@ body {
   background: linear-gradient(135deg, #1e1e2f, #111);
   color: white;
   overflow-x: hidden;
-  position: relative;
+/*   position: relative; */
 }
 
 #music-container {
@@ -17,7 +17,7 @@ body {
   justify-content: space-between;
   padding: 2rem;
   gap: 2rem;
-  height: 100vh;
+  height: 550px;
 }
 
 .player {
